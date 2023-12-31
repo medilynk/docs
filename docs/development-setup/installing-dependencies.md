@@ -16,7 +16,9 @@ nav_order: 2
 
 ---
 ## Installing node.js
-
+```
+sudo apt install nodejs
+```
 ---
 ## Installing postgres
 
