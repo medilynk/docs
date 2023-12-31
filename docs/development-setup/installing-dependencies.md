@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Dependencies
 parent: Development Setup
 nav_order: 2
 ---
